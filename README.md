@@ -5,10 +5,10 @@ Estimate gestational age by maternal whole blood gene expression
 **June 2019**
 - Wenqin Hu
 
-## Report: 
+### Report: 
 https://drive.google.com/open?id=1elaOd5B_qhk0qT8Yv9-GqgB2mp9cJiRaHH0pryQsnI8
 
-## Web APP
+### Web APP:
 http://wenqinhu.site
 
 ### Data link:
